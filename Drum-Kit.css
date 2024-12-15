@@ -10,13 +10,13 @@ body {
     text-shadow: 3px 0 #DA0463;
   }
   
-  .w { background-image: url("images/crash.png"); }
-  .a { background-image: url("images/kick.png"); }
-  .s { background-image: url("images/snare.png"); }
-  .d { background-image: url("images/tom1.png"); }
-  .j { background-image: url("images/tom2.png"); }
-  .k { background-image: url("images/tom3.png"); }
-  .l { background-image: url("images/tom4.png"); }
+  .w { background-image: url("crash.png"); }
+  .a { background-image: url("kick.png"); }
+  .s { background-image: url("snare.png"); }
+  .d { background-image: url("tom1.png"); }
+  .j { background-image: url("tom2.png"); }
+  .k { background-image: url("tom3.png"); }
+  .l { background-image: url("tom4.png"); }
   
   .set {
     margin: 10% auto;
